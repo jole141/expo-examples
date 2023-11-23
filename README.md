@@ -1,4 +1,4 @@
-# react-native-ble-advertise
+# Expo: react-native-ble-advertise
 
 [![npm version](https://badge.fury.io/js/react-native-ble-advertise.svg)](https://badge.fury.io/js/react-native-ble-advertise)
 
