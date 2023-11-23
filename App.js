@@ -14,7 +14,7 @@ export default function App() {
   const askForPermission = async () => {
     const permission = await PermissionsAndroid.request(PermissionsAndroid.PERMISSIONS.BLUETOOTH_ADVERTISE);
     if (permission !== PermissionsAndroid.RESULTS.GRANTED) {
-      console.log('Permission to access location was denied');
+      console.log('Permission denied');
     }
   };
 
